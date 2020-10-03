@@ -1,0 +1,6 @@
+.tweak-index-page-fullscreen-first-page-only .Index-page:first-child .Index-page-content, .tweak-index-page-fullscreen-pages-with-backgrounds-only .Index-page--has-image .Index-page-content, .tweak-index-page-fullscreen-all-pages .Index-page .Index-page-content{
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  max-width: 3000px !important;
+}
